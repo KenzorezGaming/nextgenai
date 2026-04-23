@@ -1,2 +1,2 @@
-# nextgenai
-AI buatan kenzie dikaa
+# NextGenAI
+powered by openai
